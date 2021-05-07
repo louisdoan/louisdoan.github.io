@@ -40,7 +40,7 @@ footer
  
 nav 
    {float: left;
-    max-width: 230px;
+    max-width: 220px;
     margin: 0;
     padding: 4em;}
  
@@ -62,15 +62,18 @@ article
     padding: 3em;
     overflow: hidden;
     color: white;
-    font-family:"serif";
+    font-family:"Helvetica";
 	font-size: 20px;
 	text-shadow: -1px 1px darkslategrey;
 	line-height: 2.0;}
 article1
    {color: white;
-    font-family:"sans-serif";
-	font-size: 20px;
-	text-shadow: -1px 1px black;
+    font-family:"Perpetua";
+	font-size: 26px;
+	text-shadow: -1px 1px white;
 	line-height: 2.0;
-	text-align: center;}
-   
+    text-align: center;
+	line-height: 1.0;}
+    mark 
+   {background-color: black;
+    color: white;}
